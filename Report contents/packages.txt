@@ -1,0 +1,11 @@
+pip install all the machine learning packages, pandas, numpy, scikit learn and all
+
+1.Video detection:
+pip install imutils
+pip install numba
+pip install scikit-learn==0.22.2
+pip install filterpy
+
+2.video_detection_alarm:
+pip install playsound
+
